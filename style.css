@@ -59,3 +59,90 @@ color: black;
     padding-top: 30px;
     
 }
+.all{
+  display: flex;  
+  gap: 20%;
+  margin-top: 10%;
+}
+.footer{
+    border: solid 1px;
+    padding: 40px;
+    background-color: black;
+}
+@media only screen and (min-width:375px ){
+    .list ul{
+    
+        display: flex;
+        gap: 1px; 
+        padding: 2px;  
+}
+.order ul{
+    gap: 2px; 
+    padding: 2px; 
+    margin-left: 20px;
+}
+.bemims{
+    padding-left: 40px;
+    
+}
+.h1{
+    padding-left: 2px;
+    margin-top: 100px;
+}
+.cap{
+    width: 80px;
+
+}
+.shop{
+    gap: 10px;
+}
+.products{
+    padding-left: 1px;
+    gap: 2px;
+}
+.least ul{
+
+    gap: 1px;
+}
+.wear{
+    gap: 10px;
+    
+}
+.all{ 
+    gap: 2px;
+  }
+  .footer{
+    padding: 20px;
+
+}
+.shirt{
+    width: 50px;
+}
+.bag{
+    width: 50px;
+}
+.eyewear{
+    width: 50px;
+}
+.man{
+    width: 50px;  
+} 
+ .hat{
+    width: 50px;  
+ }
+ .eyes{
+    width: 50px;   
+ }
+ .girl{
+    width: 50px;  
+ }
+ .woman{
+    width: 50px;  
+ }
+ .pink{
+    width: 50px;  
+ }
+ .sandals{
+    width: 50px;  
+ }
+}
