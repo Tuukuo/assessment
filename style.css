@@ -1,0 +1,61 @@
+.list ul{
+  list-style: none;
+  display: flex;
+  gap: 2%; 
+  border: solid 1px; 
+  background-color: green;
+  color: white;
+  padding: 5px;
+}
+.order ul{
+    list-style: none;
+    display: flex;
+    gap: 2%; 
+    padding: 5px; 
+    margin-left: 20%;
+}
+.bemims{
+    padding-left: 400px;
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+}
+.h1{
+    padding-left: 200px;
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 100px;
+}
+.a{
+    color: black;
+    
+}
+.mix{
+    display: flex;
+}
+.shop{
+    display: flex;
+    gap: 15%;
+}
+.products{
+    display: flex;
+    padding-left: 70px;
+    gap: 20%;
+    margin-top: 100px;
+}
+.least ul{
+    list-style: none;
+    display: flex;
+    gap: 50%;
+
+}
+.last{
+color: black;
+}
+.wear{
+    gap: 20%;
+    display: flex;
+    padding-top: 30px;
+    
+}
